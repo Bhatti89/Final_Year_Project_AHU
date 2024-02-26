@@ -14,7 +14,7 @@ This project implements a fault detection system for Heating, Ventilation, and A
 ## Usage
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/Bhatti89/hvac-fault-detection.git
+   git clone https://github.com/Bhatti89/Final_Year_Project.git
    cd hvac-fault-detection
 
 2. Ensure you have the required Python libraries installed by running:
